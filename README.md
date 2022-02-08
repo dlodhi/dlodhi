@@ -14,15 +14,6 @@
 - 💬 Talk to me about Python, Data Science 
  
 
-
-<br>
-<br>
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<p align="left">
-<a href="https://linkedin.com/in/dlodhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/dlodhi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dlodhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dlodhi" height="30" width="40" /></a>
-</p>
 <br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -30,6 +21,14 @@
  
 
  <br>
+  
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+<p align="left">
+<a href="https://linkedin.com/in/dlodhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/dlodhi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dlodhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dlodhi" height="30" width="40" /></a>
+</p>
+<br>
 <h2> My GitHub Stats <img src ='https://media1.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47lz2pa8f5qjdtlw5svyjf3i0uck35npl0tm5l3d87&rid=giphy.gif&ct=s' width = 32px> </h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlodhi&show_icons=true&locale=en&layout=compact" alt="dlodhi" /></p>
