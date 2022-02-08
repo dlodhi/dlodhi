@@ -15,6 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlodhi&show_icons=true&locale=en&layout=compact" alt="dlodhi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlodhi&show_icons=true&locale=en" alt="dlodhi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dlodhi&" alt="dlodhi" /></p># dlodhi
-# dlodhi
