@@ -6,7 +6,7 @@
 
 <h2> About Me <img src = "https://i.giphy.com/media/Wn1DjIHKwcbtGbTVlO/giphy.webp" width = 00px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://media4.giphy.com/media/dbtDDSvWErdf2/giphy.gif?cid=790b7611d6d581323fb1ff1389477fbe8e7ab019ffd6c0bd&rid=giphy.gif&ct=g" />
 
 
 - 🔭 I’m currently working as Python Devloper 
