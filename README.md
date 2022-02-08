@@ -1,23 +1,20 @@
 <h1> Hello ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
- 
-
 </p>
 <div size='20px'> Hi! My name is Deepak Lodhi. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media4.giphy.com/media/Wn1DjIHKwcbtGbTVlO/giphy.gif?cid=ecf05e47cjgxbzfhgk3xiwhq0rfu3fmuq73g3bba5pb5ccol&rid=giphy.gif&ct=s" width = 00px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently as Python Devloper 
+- 🔭 I’m currently working as Python Devloper 
 - 🌱 I’m currently learning AWS,Data Science 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
 - 💬 Talk to me about Python, Data Science 
  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dlodhi&label=Profile%20views&color=0e75b6&style=flat" alt="dlodhi" /> </p>
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
@@ -41,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlodhi&show_icons=true&locale=en" alt="dlodhi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dlodhi&" alt="dlodhi" /></p>
+
+
