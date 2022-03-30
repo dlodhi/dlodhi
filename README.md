@@ -29,7 +29,7 @@
 <a href="https://www.hackerrank.com/dlodhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dlodhi" height="30" width="40" /></a>
 </p>
 <br>
-<h2> My GitHub Stats <img src ='https://media1.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47lz2pa8f5qjdtlw5svyjf3i0uck35npl0tm5l3d87&rid=giphy.gif&ct=s' width = 32px> </h2>
+<!-- <h2> My GitHub Stats <img src ='https://media1.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47lz2pa8f5qjdtlw5svyjf3i0uck35npl0tm5l3d87&rid=giphy.gif&ct=s' width = 32px> </h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlodhi&show_icons=true&locale=en&layout=compact" alt="dlodhi" /></p>
 
@@ -38,5 +38,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlodhi&show_icons=true&locale=en" alt="dlodhi" /></p>
 
-
+ -->
 
