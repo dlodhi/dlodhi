@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as Python Devloper 
 - 🌱 I’m currently learning AWS,Data Science 
-- 💬 Talk to me about Python, Data Science 
+<!-- - 💬 Talk to me about Python and Data Science  -->
  
 
 <br>
