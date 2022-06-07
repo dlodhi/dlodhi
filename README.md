@@ -4,7 +4,7 @@
 <div size='20px'> Hi! My name is Deepak Lodhi. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://i.giphy.com/media/Wn1DjIHKwcbtGbTVlO/giphy.webp" width = 00px></h2>
+<h2> About Me <img src = "https://i.giphy.com/media/Wn1DjIHKwcbtGbTVlO/giphy.webp" width = 10px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47hteio2fyihybcio3yfn9k6wz9v5oggwbnusrjsgk&rid=giphy.gif&ct=g" />
 
