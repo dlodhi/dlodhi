@@ -1,7 +1,7 @@
 <h1> Hello !  </h1>
 <p align='center'>
 </p>
-<div size='20px'> Hi! My name is Deepak Lodhi. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Deepak Lodhi. 
 </div>
 
 <h2> About Me <img src = "https://i.giphy.com/media/Wn1DjIHKwcbtGbTVlO/giphy.webp" width = 10px></h2>
